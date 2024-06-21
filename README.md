@@ -38,6 +38,9 @@ Basically
 Key benefits of Random Forest Classifier:
 
 1.High accuracy: Ensemble learning often leads to better performance compared to single models like decision trees.
+
 2.Robust to overfitting: The introduction of randomness during training helps prevent the model from memorizing the training data and improving its ability to generalize to unseen data.
+
 3.Handles both categorical and numerical features: This makes it versatile for various applications.
+
 4.Provides feature importance: Random forests can indicate which features are most influential in making predictions, aiding in understanding the model's behavior.
