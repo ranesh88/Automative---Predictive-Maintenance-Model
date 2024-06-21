@@ -25,9 +25,13 @@ A Random Forest Classifier is a powerful machine learning algorithm widely used 
 Basically
 
 1.The algorithm first creates multiple decision trees, each trained on a random subset of the training data with replacement.
+
 2.At each node of a decision tree, the algorithm randomly selects a subset of features and chooses the best split based on a specific criterion to separate the data.
+
 3.This introduces randomness and prevents any individual tree from over fitting the training data.
+
 4.When presented with a new data point, each tree in the forest makes a classification prediction.
+
 5.The final prediction is made by taking the majority vote of the individual tree predictions.
 
 
